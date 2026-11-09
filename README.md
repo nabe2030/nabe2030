@@ -21,7 +21,7 @@ I test what AI models can run on available hardware and which real-world tasks t
 - **SGLang** — DGX Sparkで再起動を遅くしていた書き込みを回避する変更を提案。別のユーザーによる実機での比較結果も記録されています。 · Proposed a restart optimization with an independent hardware validation report. [PR #42400](https://github.com/sgl-project/sglang/pull/42400)
 - **Strata** — 16 GB GPU 2枚で起動できない条件を切り分け、再現条件と修正案を共有。 · Diagnosed a startup failure on dual 16 GB GPUs and shared a reproducer and proposed fix. [Issue #5187](https://github.com/Niko1221/Strata/issues/5187) · [PR #5258](https://github.com/Niko1221/Strata/pull/5258)
 
-センスウェイ CTO / 生成AI協会（GAIS）理事 / IoTメディアラボ理事  
-CTO at SenseWay · Director at the Generative AI Society (GAIS) and IoT Media Lab
+生成AI協会（GAIS）理事 / IoTメディアラボ理事  
+Director at the Generative AI Society (GAIS) and IoT Media Lab
 
 [Qiita](https://qiita.com/nabe2030) · [LinkedIn](https://www.linkedin.com/in/nabe2030/)
