@@ -6,6 +6,8 @@
 
 I test what AI models can run on available hardware and which real-world tasks they can handle. My work covers GPU infrastructure, local inference, and agent evaluation, with reproducible setups and measurements that help teams choose what to deploy.
 
+**GPU推論・CUDA最適化のご依頼・ご相談 / Consulting inquiries for GPU inference and CUDA optimization** — [nabe@gridtech.jp](mailto:nabe@gridtech.jp)
+
 ## 代表プロジェクト | Selected work
 
 | プロジェクト | 内容 |
